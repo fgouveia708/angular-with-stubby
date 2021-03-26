@@ -16,4 +16,4 @@ Angular with Stubby é uma aplicação que demonstra como criar mocks de APIs RE
 
   
   
-Veja o artigo "**Criar Mocks de APIs REST com o Stubby**" que detalha a implementação: 
+Veja o artigo "**Criar Mocks de APIs REST com o Stubby**" que detalha a implementação: https://link.medium.com/bYBuXPcSTeb
